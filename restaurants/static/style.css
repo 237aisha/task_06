@@ -1,0 +1,16 @@
+
+ul.a {
+    list-style-type: circle;
+  }
+  body {
+    padding-left: 15px;
+    background-color: antiquewhite
+}
+h1 a, h2 a {
+    color: #C25100;
+    font-family: 'Lobster';
+}
+
+.date {
+    color: #828282;
+}
